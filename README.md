@@ -8,9 +8,9 @@
 
 ## 📸 Captura / Demo
 
-![Vista del reporte](./capturas/reporte.png)
+![Tablas](https://drive.google.com/uc?export=view&id=1gelPzReLglfDBU9tylamuEfvTr9xXPr_) 
 
-![Vista del reporte (link)](https://TU-LINK-A-LA-IMAGEN)
+![Consultas](https://drive.google.com/uc?export=view&id=16QeE782YvzEYz9tc8VVfjRM96fFLUlns) 
 
 ---
 
